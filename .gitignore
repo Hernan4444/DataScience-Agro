@@ -1,5 +1,4 @@
 **/*.idea
 **/*__pycache__
-*Filter_Data
 *Original_Data
 *ipynb_checkpoints
