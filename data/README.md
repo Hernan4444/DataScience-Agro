@@ -13,7 +13,7 @@ controles del material, tareas y un examen final. Se calculará **la nota del cu
     
     Se calculará la nota de las evaluaciones escritas **EE** como:
     
-    **EE = $$\frac{(C_1 + C_2 + C_3 + C_4 + 2 * Examen) - min(C_1, C_2, C_3, C_4, Examen)}{5}$$**
+    **EE = [(C~1~ + C~2~ + C~3~ + C~4~ + 2 * Examen) - min(C~1~, C~2~, C~3~, C~4~, Examen)]/5**
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
     - **EE** debe ser mayor o igual a 3.950
