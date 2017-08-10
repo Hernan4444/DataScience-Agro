@@ -1,4 +1,4 @@
-
+﻿
 # IIC2115 - Programación como Herramienta para la Ingeniería
 
 
@@ -13,7 +13,7 @@ controles del material, tareas y un examen final. Se calculará **la nota del cu
     
     Se calculará la nota de las evaluaciones escritas **EE** como:
     
-    **EE = [(C~1~ + C~2~ + C~3~ + C~4~ + 2 * Examen) - min(C~1~, C~2~, C~3~, C~4~, Examen)]/5**
+    **EE = [(C<sub>1</sub> + C<sub>2</sub> + C<sub>3</sub> + C<sub>4</sub> + 2 * Examen) - min(C<sub>1</sub>, C<sub>2</sub>, C<sub>3</sub>, C<sub>4</sub>, Examen)]/5**
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
     - **EE** debe ser mayor o igual a 3.950
